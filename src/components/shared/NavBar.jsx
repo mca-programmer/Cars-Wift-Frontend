@@ -41,7 +41,7 @@ export default function NavBar() {
         {/* Logo */}
         <Link href="/" className="text-2xl font-bold tracking-wide z-10">
           <Image
-            src="/assets/logo_new.png"
+            src="/assets/Logo_new.png"
             alt="CarsWift Logo"
             width={120}
             height={40}
