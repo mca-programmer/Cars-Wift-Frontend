@@ -297,7 +297,7 @@ const Page = () => {
                 </label>
                 <input
                   type="text"
-                  placeholder="e.g. Uttara, Dhaka"
+                  placeholder="e.g. Habigonj, Sylhet"
                   className="input_field w-full mt-2"
                   {...register("location", {
                     required: "Location is required",
